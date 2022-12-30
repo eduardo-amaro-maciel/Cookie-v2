@@ -1,0 +1,11 @@
+{
+    "protocolo": "B5EB3591-FDE6-4292-8E60-CC9286378E2E",
+    "mensagem": "Dados de contato obtidos com sucesso.",
+    "mensagem_auditoria": "Protocolo da operação: B5EB3591-FDE6-4292-8E60-CC9286378E2E - Realizada em: 27/12/2022 10:54:42 - Por: undefined",
+    "sucesso": true,
+    "result": "<p><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>Voc&ecirc; tem uma&nbsp;<strong>reclama&ccedil;&atilde;o</strong>&nbsp;referente a seus dados pessoais?</strong></span></span></p>\r\n\r\n<p><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>Entre em contato atrav&eacute;s de um de nossos canais e te ajudamos a resolver (<strong>para solicita&ccedil;&otilde;es</strong> sobre os seus dados, <strong>utilize o formul&aacute;rio ao lado</strong>).</strong></span></span></p>\r\n\r\n<h5><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>EDNA Center </strong>nomeou um encarregado de prote&ccedil;&atilde;o de dados pessoais para voc&ecirc; contatar caso tenha alguma d&uacute;vida ou preocupa&ccedil;&atilde;o sobre as pol&iacute;ticas e pr&aacute;ticas de privacidade de dados aplicadas. Se voc&ecirc; deseja exercer seus direitos de privacidade, preencha o formul&aacute;rio na aba SOLICITA&Ccedil;&Otilde;ES DOS TITULARES DE DADOS.<br />\r\n<br />\r\nO nome e as informa&ccedil;&otilde;es de contato do nosso DPO s&atilde;o os seguintes:</span></span></h5>\r\n\r\n<p><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>EDNA.CENTER</strong></span></span></p>\r\n\r\n<p><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">E-mail:&nbsp;<a href=\"mailto:dpo@edna.center\">dpo@edna.center</a></span></span></p>\r\n\r\n<p><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Telefone/WhatsApp:&nbsp;<strong>(47) 99660-0977</strong></span></span></p>\r\n\r\n<p><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><strong>Segunda a sexta das 09:00&nbsp;&agrave;s 18:00</strong></span></span></p>\r\n",
+    "api-info": {
+        "version": "v6.5.stg - nov/2022",
+        "version_warning": ""
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "protocolo": "6E779605-AC92-4DB1-A82E-A5E9B5742D58",
+    "mensagem": "Opções de solicitações obtidas com sucesso.",
+    "mensagem_auditoria": "Protocolo da operação: 6E779605-AC92-4DB1-A82E-A5E9B5742D58 - Realizada em: 27/12/2022 10:54:42 - Por: undefined",
+    "sucesso": true,
+    "result": {
+        "conteudo": "Você tem alguma solicitação referente a seus dados pessoais?",
+        "solicitacoes": [
+            {
+                "aba": "tab0",
+                "titulo_aba": "Você sabia?",
+                "instrucao": "A Lei Geral de Proteção de Dados - LGPD garante a você titular de dados uma série de direitos, através desta área você pode exercer todos esses direitos, sem qualquer burocracia ou complicação.</br></br>                                     Agora, se você deseja fazer uma <b>reclamação</b> (exclusivamente sobre os seus dados), venha até a aba                                    <a href='#' onclick=\"show_cookie_modal(4,'Política de Privacidade','Política de Cookies','Solicitações','Contato','NÓS RESPEITAMOS A SUA PRIVACIDADE');cookie_notice_send_stats('DadosContato');\">contato</a>                                    e fale com nosso Encarregado de Proteção de Dados (DPO), estamos prontos para te ouvir e auxiliar na resolução de qualquer questão.",
+                "exibir_form": false,
+                "label_informacoes": ""
+            },
+            {
+                "aba": "tab3",
+                "titulo_aba": "Acesso",
+                "instrucao": "Quero acessar meus dados pessoais",
+                "exibir_form": true,
+                "label_informacoes": "Detalhes adicionais (opcional)"
+            },
+            {
+                "aba": "tab1",
+                "titulo_aba": "Retificação",
+                "instrucao": "Quero corrigir meus dados pessoais",
+                "exibir_form": true,
+                "label_informacoes": "Por favor, descreva quais dados você deseja atualizar"
+            },
+            {
+                "aba": "tab2",
+                "titulo_aba": "Eliminação",
+                "instrucao": "Quero eliminar meus dados pessoais",
+                "exibir_form": true,
+                "label_informacoes": "Detalhes adicionais (opcional)"
+            },
+            {
+                "aba": "tab5",
+                "titulo_aba": "Portabilidade",
+                "instrucao": "Quero a portabilidade de meus dados pessoais",
+                "exibir_form": true,
+                "label_informacoes": "Para qual empresa e quais dados pessoais você deseja portabilidade?"
+            },
+            {
+                "aba": "tab6",
+                "titulo_aba": "Revogação de consentimento",
+                "instrucao": "Quero revogar um consentimento",
+                "exibir_form": true,
+                "label_informacoes": "Por favor descreva quais consentimentos deseja revogar"
+            },
+            {
+                "aba": "tab7",
+                "titulo_aba": "Outras solicitações",
+                "instrucao": "Quero solicitar outros direitos previstos na LGPD",
+                "exibir_form": true,
+                "label_informacoes": "Qual a sua solicitação."
+            }
+        ]
+    },
+    "api-info": {
+        "version": "v6.5.stg - nov/2022",
+        "version_warning": ""
+    }
+}
